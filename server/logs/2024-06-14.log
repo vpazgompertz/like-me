@@ -1,0 +1,68 @@
+
+Started GET / for :: ::1 at Fri Jun 14 2024 12:20:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 9 ms Request ID: [e93d8364-b480-4582-bb55-907d9cfa7928]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 12:20:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 6 ms Request ID: [b638a862-db1f-4c77-82f9-01755bd50e97]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 12:23:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 9 ms Request ID: [947ff9ce-1f18-4344-9960-7cc132115d3d]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 12:23:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [ac33aa0f-0c7c-4b00-af87-62556b0df6e4]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 12:24:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [204a457a-76d3-483c-afd0-d53c8c7025ba]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 12:51:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [d28e90aa-0c40-4bb0-a748-303097d404c1]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 13:07:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [cce25a74-2a3d-4114-8a93-8a7fec2aa653]
+
+Started GET /posts for :: ::1 at Fri Jun 14 2024 15:51:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 53 ms Request ID: [4c2318d6-d1ee-4969-8fb3-fd0b35a780fa]
+
+Started GET /posts for :: ::1 at Fri Jun 14 2024 15:51:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 34 ms Request ID: [ce1f35b5-6e3c-48c6-b3cd-18a540fedde8]
+
+Started GET /posts for :: ::1 at Fri Jun 14 2024 15:54:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 37 ms Request ID: [4fcb9bc2-20c9-4f10-acf9-5c9dc099aa9a]
+
+Started GET /posts for :: ::1 at Fri Jun 14 2024 15:54:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [6bfc6583-3799-4ac6-bd6c-57b7958f0b1e]
+
+Started POST /posts for :: ::1 at Fri Jun 14 2024 15:55:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"titulo":"HOLA","url":"https://th.bing.com/th/id/OIP.KsQxkDmbc3_i-8ExVW_QlwHaJ5?rs=1&pid=ImgDetMain","descripcion":"PELICULA"}
+Completed: 500 message:  Time response: 3 ms Request ID: [3a3dd6c9-838b-466f-8ff8-b28da4c440ef]
+
+Started POST /posts for :: ::1 at Fri Jun 14 2024 15:57:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"titulo":"HOLA","url":"https://th.bing.com/th/id/OIP.KsQxkDmbc3_i-8ExVW_QlwHaJ5?rs=1&pid=ImgDetMain","descripcion":"PELICULA"}
+Completed: 500 message:  Time response: 3 ms Request ID: [ad8c70c9-01d0-4e7a-9b20-4b2fca8b9ac2]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 15:57:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [b87f1d85-cf1c-4c15-a828-83bfea9d41ef]
+
+Started GET / for :: ::1 at Fri Jun 14 2024 15:57:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [88dc5a32-a54f-4f7a-8d1d-e1a1bb8a86d8]
+
+Started POST /posts for :: ::1 at Fri Jun 14 2024 16:00:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"titulo":"HOLA","url":"https://th.bing.com/th/id/OIP.KsQxkDmbc3_i-8ExVW_QlwHaJ5?rs=1&pid=ImgDetMain","descripcion":"PELICULA"}
+Completed: 500 message:  Time response: 5 ms Request ID: [b0ce9ae2-5730-4dc5-a1d8-3a6ea5f0d4f0]
+
+Started POST /posts for :: ::1 at Fri Jun 14 2024 16:03:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"titulo":"HOLA","url":"https://th.bing.com/th/id/OIP.KsQxkDmbc3_i-8ExVW_QlwHaJ5?rs=1&pid=ImgDetMain","descripcion":"PELICULA"}
+Completed: 500 message:  Time response: 2 ms Request ID: [6ac77b99-801e-496d-abc3-ecf5c2f3a27b]
