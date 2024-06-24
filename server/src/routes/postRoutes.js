@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getPosts, createPost } from '../controllers/postControllers.js';
+import { getPosts, createPost, putLike, deletePost } from '../controllers/postControllers.js';
 
 const router = Router();
 
@@ -9,5 +9,8 @@ router.get('/', (req, res) => {
 
 router.get('/posts', getPosts);
 router.post('/posts', createPost);
+router.put('/posts/like/:id', putLike);
+router.delete('/posts/:id', deletePost)
 
 export default router;
+
